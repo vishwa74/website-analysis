@@ -6,3 +6,4 @@ K.Vinith
 M.Pradeep Kumar
 A.Sangeetharasu
 We will be using IBM Cognos for this project
+Begining the Project with Data Extraction And Data Transformation
